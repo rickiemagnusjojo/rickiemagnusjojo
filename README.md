@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**rickiemagnusjojo/rickiemagnusjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a Computer Science student in Tartu University, currently in my 2nd year of studies. 
+(LinkedIn page?)
+(e-mail?)
 
-Here are some ideas to get you started:
+# Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website project for recycling/Veebilehe projekt prügi sorteerimiseks
+[Repo](https://github.com/Arhrx10/veebipraks)
+HTML, CSS, JavaScript
+
+RPG game/mäng "Tartu vajab Sind!"
+[Repo](https://github.com/karelkohu/Pythonim2ng)
+Python (pygame plugin)
