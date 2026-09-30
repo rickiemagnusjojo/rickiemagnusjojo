@@ -10,10 +10,12 @@ E-mail: rickieroberts78@gmail.com
 
 ### Hangman game using JavaFX/ Hangman mäng JavaFX-iga
 [Repo](https://github.com/rickiemagnusjojo/Ruhmatoo2)
+
 Java
 
 ### Casino project (duo project)/ Kasiino projekt (paaristöö)
 [Repo](https://github.com/rickiemagnusjojo/OOP_Kasiino)
+
 Java
 
 ### Website project for recycling/Veebilehe projekt prügi sorteerimiseks (group project)
