@@ -4,7 +4,7 @@
 (LinkedIn page?)
 (e-mail?)
 
-## Projects
+# Projects
 
 ### Website project for recycling/Veebilehe projekt prügi sorteerimiseks
 
