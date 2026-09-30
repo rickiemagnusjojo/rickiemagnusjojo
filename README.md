@@ -2,8 +2,8 @@
 
 ## I am a Computer Science student in Tartu University, currently in my 2nd year of studies. 
 ## Olen Tartu Ülikooli informaatika eriala 2. kursuse tudeng.
-(LinkedIn page?)
 
+[LinkedIn](www.linkedin.com/in/rickie-roberts-a3a13b440)
 E-mail: rickieroberts78@gmail.com
 
 # Projects
