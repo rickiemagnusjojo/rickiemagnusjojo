@@ -4,6 +4,7 @@
 ## Olen Tartu Ülikooli informaatika eriala 2. kursuse tudeng.
 
 [LinkedIn](www.linkedin.com/in/rickie-roberts-a3a13b440)
+
 E-mail: rickieroberts78@gmail.com
 
 # Projects
