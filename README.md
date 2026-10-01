@@ -9,6 +9,11 @@ E-mail: rickieroberts78@gmail.com
 
 # Projects
 
+### Festival database / Festivali andmebaas (duo project/paaristöö)
+[Repo](https://github.com/rickiemagnusjojo/festivalid_sql)
+
+postgreSQL
+
 ### Hangman game using JavaFX/ Hangman mäng JavaFX-iga
 [Repo](https://github.com/rickiemagnusjojo/Ruhmatoo2)
 
